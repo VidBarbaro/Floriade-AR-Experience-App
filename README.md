@@ -4,7 +4,7 @@ Mobile app for Floriade Expo 2022 </br>
 - Download for Android https://play.google.com/store/apps/details?id=com.floriadeandroid </br>
 - Download for IOS https://apps.apple.com/nl/app/floriade-ar-experience/id1614627122?l=en
 
-# Floriade AR Experience App
+# Intro
 
 App made for the Floriade 2022 Expo in Almere that helps visitors visualize certain enviromental issues mentioned in the app and at the expo itself with augmented reality.
 
