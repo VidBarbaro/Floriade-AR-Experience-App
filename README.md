@@ -39,9 +39,9 @@ The Floriade AR Experience App is made to improve the visit to the Floriade Expo
 ![Ideal average footprint](https://play-lh.googleusercontent.com/tx7NdokFjwDjQL0oroveUIcLOqM8ZHWFzcC2sZ1pRomKCCvVid1yhKDdOW8Nd8NTv6QW=w1536-h754-rw "Ideal average footprint")
 ![Dutch average footprint 2](https://play-lh.googleusercontent.com/08cr1876yECxG8Tr0G0ibDbgN8TYJOem8fJBNEdUoZPlpNkrZZoC1k4xknqri9PZkv1o=w1536-h754-rw "Dutch average footprint 2")
 </br> </br>
-5. Press on the 3rd footprint icon then calculate and visualize your own footprint
+5. Press on the 3rd footprint icon then calculate and visualize your own footprint </br> </br>
 ![Questionaire personal foot](https://play-lh.googleusercontent.com/Ol857T0FJQEb0A1zUl-eCW1ZoScb6DtdUhLhAlxc_lmjdwg3ENiOnxQn57JiXNGo1tE=w1536-h754-rw "Questionaire personal foot")
 </br> </br>
-6. Press on the green map button and walk the footprint at the exposition with our geolocation feature. Get notified when you are inside the ideal green zone and the Dutch national average red zone
+6. Press on the green map button and walk the footprint at the exposition with our geolocation feature. Get notified when you are inside the ideal green zone and the Dutch national average red zone </br> </br>
 ![Geolocation](https://play-lh.googleusercontent.com/I7kY5P9peJxF1JoB3_A4TjKzEntX0mg7jb9d7vxPRXUFzAOHjXnlJAu9_hCCCr7vqS0=w1536-h754-rw "Geolocation")
 </br> </br>
